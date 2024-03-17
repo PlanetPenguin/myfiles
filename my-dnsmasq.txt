@@ -3,3 +3,4 @@ address=/facebook.net/0.0.0.0
 address=/fbpigeon.com/0.0.0.0
 address=/instagram.com/0.0.0.0
 address=/*mtalk.google.com/
+address=/*.appsflyersdk.com/
